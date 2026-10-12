@@ -38,3 +38,7 @@ are also ignored.
 ## Learning reference
 
 [Official Git documentation](https://git-scm.com/doc)
+
+## Remote update
+
+This section was added directly on GitHub to practice fetching before pulling.
