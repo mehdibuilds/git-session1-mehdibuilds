@@ -42,3 +42,13 @@ are also ignored.
 ## Remote update
 
 This section was added directly on GitHub to practice fetching before pulling.
+
+## Assignment report and evidence
+
+- [Assignment report PDF](output/pdf/Assignment1_Report.pdf)
+- [Editable report source](REPORT.md)
+- [Recorded Git command output](evidence/commands.txt)
+- [Rendered README screenshot](evidence/readme-github.png)
+
+The report discloses the AI assistance used. Review the reflection and Git
+commands before submitting the repository URL in the class submission sheet.
