@@ -1,4 +1,4 @@
-# git-session1-mehdibuilds
+# git-session1
 
 **Author:** El Mehdi Rahmoune  
 **GitHub:** [mehdibuilds](https://github.com/mehdibuilds)  
@@ -14,10 +14,10 @@ synchronizing a local Git repository with GitHub.
 
 ## Technologies
 
-- HTML5 for page structure
-- CSS for styling
-- JavaScript for the project status message
-- Git and GitHub for version control
+- HTML
+- CSS
+- JavaScript
+- Git and GitHub
 
 ## Run locally
 
