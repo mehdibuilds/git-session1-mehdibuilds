@@ -1,0 +1,8 @@
+# Local configuration and routine logs
+local.env
+*.log
+!important.log
+
+# Temporary rendering and tooling files
+tmp/
+__pycache__/

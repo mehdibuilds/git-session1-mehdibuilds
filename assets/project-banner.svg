@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260">
+<rect width="960" height="260" fill="#f4512c"/>
+<rect x="28" y="28" width="904" height="204" rx="18" fill="#fff"/>
+<text x="480" y="112" font-family="Arial" font-size="44" text-anchor="middle" fill="#222">Git &amp; GitHub - Session 1</text>
+<text x="480" y="166" font-family="Arial" font-size="28" text-anchor="middle" fill="#555">Assignment Starter Project</text>
+</svg>
